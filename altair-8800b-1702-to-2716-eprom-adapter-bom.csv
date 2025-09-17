@@ -1,0 +1,11 @@
+Source:,,,,,,,
+Date:,9/17/2025 0:23,,,,,,
+Tool:,Eeschema 7.0.11-rc3,,,,,,
+Generator:,,,,,,,
+Component Count:,2,,,,,,
+,,,,,,,
+Collated Components:,,,,,,,
+,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,DNP
+1,1,U1,2716,Memory_EPROM_Custom:2716,Package_DIP:DIP-24_W15.24mm,,
+2,1,U2,1702,Memory_EPROM_Custom:1702,Package_DIP:DIP-24_W15.24mm,,
