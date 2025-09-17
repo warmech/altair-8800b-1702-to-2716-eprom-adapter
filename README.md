@@ -5,7 +5,9 @@ This design is presently untested and I am awaiting a set to be fabricated. Once
 For the accompanying CPU, Interface, and Display/Control boards, please see the following repositories:
 
 [Altair 8800B CPU Card](https://github.com/warmech/altair-8800b-cpu-card)
+
 [Altair 8800B Interface Card](https://github.com/warmech/altair-8800b-interface-card)
+
 [Altair 8800B Display/Control PCB](https://github.com/warmech/altair-8800b-display-control-pcb)
 
 ![](/images/altair-8800b-1702-to-2716-eprom-adapter-front.png)
